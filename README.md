@@ -18,7 +18,7 @@ If you want to use Visual Studio (highly recommended) follow the following steps
 ## If you don't plan to use Visual studio
 If you would rather use something other than Visual Studio
 -   Install the .Net Core SDK from https://www.microsoft.com/net/download/core once that installation completes you're ready to roll!
--   To run the application go into the StarChart project folder and type `dotnet run`
+-   To run the application go into the StarChart project folder and type `dotnet run`	
 -   To run the tests go into the StarChartTests project folder and type `dotnet test`
 
 # Features you will implement
