@@ -5,7 +5,7 @@ namespace StarChart.Data
 {
     public class ApplicationDbContext : DbContext
     {
-        public DbSet<CelestrialObject> CelestrialObjects { get; set; }
+        public DbSet<CelestialObject> CelestrialObjects { get; set; }
 
         public ApplicationDbContext(DbContextOptions options) : base(options)
         {
